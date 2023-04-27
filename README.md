@@ -1,20 +1,14 @@
 
-# Case Study Leaderboard
+# Weather Leaderboard
 
 Leadership board with weather filters
 
 
 ## Below points taken care
 
--Weather Sunny Status
+-Weather  Status
 
-![App Screenshot]()
-
-- Weather Rain Status
-
-![App Screenshot]()
-
-
+![App Screenshot](https://github.com/anantjain06/weatherApi/blob/main/public/weather_status.png)
 
 
 
